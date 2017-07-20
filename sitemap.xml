@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://myonlyzzy.github.io/blog/categories/</loc>
+    <loc>http://example.org/post/test/</loc>
+    <lastmod>2017-07-19T17:34:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2017-07-03T20:27:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://myonlyzzy.github.io/blog/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-07-19T17:34:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://myonlyzzy.github.io/blog/tags/</loc>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-07-19T17:34:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
